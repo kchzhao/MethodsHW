@@ -1,5 +1,4 @@
 public class Main {
-
     //Exercise 1
     public static void isLeapYear(int year){
         int givenYear = year;
